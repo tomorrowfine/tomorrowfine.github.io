@@ -1,0 +1,19 @@
+# Site settings
+name: 韩高强
+location: 郑州
+company: IBM
+position: Python开发工程师
+github: https://github.com/
+facebook: https://www.facebook.com/
+phone: 17516069147
+email: gq17516069147@163.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
